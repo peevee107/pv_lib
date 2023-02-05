@@ -62,22 +62,22 @@
     "gifs":[
         
        {  "name":"0",
-           "icon":"bubbles.png"
+           "icon":"bubbles.jpg"
        },
        {  "name":"1",
-           "icon":"glitters.png"
+           "icon":"glitters.jpg"
        },
        {  "name":"2",
-           "icon":"fire_1.png"
+           "icon":"fire_1.jpg"
        },
        {  "name":"3",
-           "icon":"matrix.png"
+           "icon":"matrix.jpg"
        },
        {  "name":"4",
-           "icon":"fire_2.png"
+           "icon":"fire_2.jpg"
        },
        {  "name":"5",
-           "icon":"autumn.png"
+           "icon":"autumn.jpg"
        }
     
     ]
