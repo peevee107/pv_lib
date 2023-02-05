@@ -53,7 +53,7 @@
        "multipass":0
      },
      { "name":"vhs",
-       "multipass":0
+       "shaders":["vhs"]
      }
     ],
     
