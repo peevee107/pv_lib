@@ -50,13 +50,13 @@
        "multipass":0
      },
      { "name":"burn",
-       "multipass":0
+       "multipass":1
      },
      { "name":"vhs",
-       "multipass":0
+       "multipass":1
      },
      { "name":"vhs",
-       "multipass":0
+       "multipass":1
      }
     ],
     
